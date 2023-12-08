@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfAppMenuForFood", "WpfAppMenuForFood\WpfAppMenuForFood.csproj", "{2586FA4C-3014-4845-B063-4F439D0BD7D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppValuesResultsToXAML", "WpfAppValuesResultsToXAML\WpfAppValuesResultsToXAML.csproj", "{52E3FFAB-1077-457D-950B-24F7CAD96812}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2586FA4C-3014-4845-B063-4F439D0BD7D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2586FA4C-3014-4845-B063-4F439D0BD7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2586FA4C-3014-4845-B063-4F439D0BD7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2586FA4C-3014-4845-B063-4F439D0BD7D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52E3FFAB-1077-457D-950B-24F7CAD96812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E3FFAB-1077-457D-950B-24F7CAD96812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E3FFAB-1077-457D-950B-24F7CAD96812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E3FFAB-1077-457D-950B-24F7CAD96812}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8C0FBA3-C25B-454A-8043-109EDF8ABA6A}
+	EndGlobalSection
+EndGlobal

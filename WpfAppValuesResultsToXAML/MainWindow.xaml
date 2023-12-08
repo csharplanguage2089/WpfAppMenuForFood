@@ -1,0 +1,36 @@
+﻿<Window
+    x:Class="WpfAppValuesResultsToXAML.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:WpfAppValuesResultsToXAML"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="800"
+    Height="450"
+    mc:Ignorable="d">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBox
+                x:Name="Value1"
+                Width="120"
+                Text="TextBox1"
+                TextWrapping="Wrap" />
+            <TextBox
+                x:Name="Value2"
+                Width="120"
+                Text="TextBox2"
+                TextWrapping="Wrap" />
+            <TextBox
+                x:Name="Value3"
+                Width="120"
+                Text="TextBox3"
+                TextWrapping="Wrap" />
+            <TextBox
+                x:Name="ResultValue"
+                Width="120"
+                Text="TextBox4"
+                TextWrapping="Wrap" />
+        </StackPanel>
+    </Grid>
+</Window>
